@@ -64,4 +64,4 @@ To install and run FloraFeed, follow these steps:
 
 ### Environment Variables
 
-FloraFeed uses environment variables to store sensitive configuration information such as API keys and authentication credentials that should not be checked into version control. A `.env.example` file has been provided as a template for the required environment variables. To configure your environment variables, copy the contents of `.env.example` into a new file called `.env` in the root directory of the
+FloraFeed uses environment variables to store sensitive configuration information such as API keys and authentication credentials that should not be checked into version control. A `.env.example` file has been provided as a template for the required environment variables. To configure your environment variables, copy the contents of `.env.example` into a new file called `.env` in the root directory of the project, and replace the placeholder values with your own API keys and credentials. It is important to ensure that the values in the .env file are kept secret and not shared publicly, as they contain sensitive information that can be used to access your services.
