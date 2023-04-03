@@ -14,6 +14,27 @@ FloraFeed is a user-generated content platform that allows users to upload photo
 
 - **Mobile-Friendly Design:** 📱 The web app is mobile-friendly, allowing users to easily add plants to the database and search for plants on the go.
 
+## Screenshots
+
+### Splash Screen
+![FloraFeed Splash Screen](/client/public/assets/Splash.jpeg)
+
+### Login Page
+![FloraFeed Login Page](/client/public/assets/Login.jpeg)
+
+### Home Page
+![FloraFeed Homepage](/client/public/assets/HomePage.jpeg)
+![FloraFeed Homepage2](/client/public/assets/HomePage2.jpeg)
+
+### Submit a Post
+![FloraFeed Submit Page](/client/public/assets/SubmitPost.png)
+
+### Discover Page
+![FloraFeed Discover Page](/client/public/assets/Discover.jpeg)
+
+### User Profile Page
+![FloraFeed User Profile Page](/client/public/assets/UserProfile.jpeg)
+
 ## Technologies Used
 
 - JavaScript
